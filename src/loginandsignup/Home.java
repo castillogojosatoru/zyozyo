@@ -41,7 +41,7 @@ public class Home extends javax.swing.JFrame {
         jPanel1.setBackground(new java.awt.Color(255, 112, 112));
 
         LogoutBtn.setBackground(new java.awt.Color(255, 153, 153));
-        LogoutBtn.setForeground(new java.awt.Color(0, 0, 0));
+        LogoutBtn.setForeground(new java.awt.Color(255, 255, 255));
         LogoutBtn.setText("LOGOUT");
         LogoutBtn.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
@@ -60,15 +60,15 @@ public class Home extends javax.swing.JFrame {
         jLabel2.setIcon(new javax.swing.ImageIcon(getClass().getResource("/Icon/Untitled-1.png"))); // NOI18N
 
         jLabel3.setFont(new java.awt.Font("Pristina", 0, 18)); // NOI18N
-        jLabel3.setForeground(new java.awt.Color(0, 0, 0));
+        jLabel3.setForeground(new java.awt.Color(255, 255, 255));
         jLabel3.setText("Momo, Sana, Jihyo, Mina, Dahyun, Chaeyoung, and Tzuyu.");
 
         jLabel4.setFont(new java.awt.Font("Pristina", 0, 18)); // NOI18N
-        jLabel4.setForeground(new java.awt.Color(0, 0, 0));
+        jLabel4.setForeground(new java.awt.Color(255, 255, 255));
         jLabel4.setText("Twice is a South Korean girl group formed by JYP Entertainment. \n");
 
         jLabel5.setFont(new java.awt.Font("Pristina", 0, 18)); // NOI18N
-        jLabel5.setForeground(new java.awt.Color(0, 0, 0));
+        jLabel5.setForeground(new java.awt.Color(255, 255, 255));
         jLabel5.setText("The group is composed of nine members: Nayeon, Jeongyeon,");
 
         javax.swing.GroupLayout jPanel1Layout = new javax.swing.GroupLayout(jPanel1);
